@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\index.scss"],"names":[],"mappings":"AAEA;EACE,OAHc","file":"scripts.bcf3243b.css","sourceRoot":"..\\src","sourcesContent":["$primary-color: red;\r\n\r\nh2 {\r\n  color: $primary-color;\r\n}\r\n"]}
