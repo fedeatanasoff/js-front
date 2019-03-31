@@ -1,5 +1,6 @@
-<h1> Repositorio para la parte Frontend de la app </h1>
+## Repositorio para la parte Frontend de la app
 
+- npm install -g parcel-bundler
 - npm install
 - npm run dev
 
